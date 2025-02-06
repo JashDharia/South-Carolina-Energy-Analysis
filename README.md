@@ -130,7 +130,7 @@ Develop a Shiny app to visualize energy consumption data, allowing users to:
     - Scatter plot of temperature vs. energy consumption 🌡️➡️⚡
     - Comparison of actual vs. predicted energy consumption per hour ⏱️
 
-[Link to Shiny App](#)
+[Link to Shiny App](https://sbadampuakhil.shinyapps.io/IDSShiney1/)
 
 ---
 
