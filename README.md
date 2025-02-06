@@ -162,10 +162,4 @@ Develop a Shiny app to visualize energy consumption data, allowing users to:
 
 This project successfully addresses the challenges of peak energy demand by focusing on demand-side management strategies ⚡. By analyzing energy consumption patterns, implementing demand response programs, and engaging with the community, the project aims to reduce peak energy demand, improve grid reliability, and promote environmental sustainability 🌱🌍. The final model and Shiny app provide valuable tools for understanding and predicting energy consumption, enabling the energy company to make informed decisions and optimize energy usage during peak periods 🔋.
 
----
 
-## Contact 📧
-
-For questions or more information, feel free to reach out:
-
-- **Project Team Lead** - email@example.com 📧
